@@ -109,7 +109,7 @@ ul.dropdown li a {
 
 .tagline{
   color : #000;
-  padding-left: 50px;
+  padding-left: 30px;
 }
 
 .audio-player .user_avatar {
@@ -549,5 +549,8 @@ ul.dropdown li a {
   }
   .audio-player .user_avatar img {
     display: none;
+  }
+  .tagline{
+   padding-left : 20px;
   }
 }
