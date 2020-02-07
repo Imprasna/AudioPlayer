@@ -107,6 +107,10 @@ ul.dropdown li a {
   height: auto;
 }
 
+.tagline{
+  color : #000;
+}
+
 .audio-player .user_avatar {
   width: 100%;
   justify-content: space-around;
