@@ -4,7 +4,12 @@ let playlist = [ {
 }, {
   'title': 'Alan Walker - Lily',
   'audio': "assets/lily.mp3",
-}, {
+}, 
+{
+  'title': 'Louis Tomlison - Two of us',
+  'audio': "assets/two of us.mp3",
+}, 
+{
   'title': 'Imagine Dragons - Thunder',
   'audio': "assets/thunder.mp3",
 }, 
@@ -33,15 +38,39 @@ let playlist = [ {
   'audio': "assets/blank space.mp3",
 },
 {
-  'title': 'Luis Fonsi - Despacito ft.Daddy Yankee',
+  'title': 'Luis Fonsi - Despacito',
   'audio': "assets/despacito.mp3",
 },
 {
   'title': 'Alan Walker - Faded',
   'audio': "assets/faded.mp3",
 },
+{
+  'title': 'Louis Tomlinson - We made it',
+  'audio': "assets/we made it.mp3",
+},
+{
+  'title': 'Maroon 5 - Payphone',
+  'audio': "assets/payphone.mp3",
+},
+{
+  'title': 'Ed Sheeran - Galway Girl',
+  'audio': "assets/galway.mp3",
+},
+{
+  'title': 'Selena Gomez - Back to you',
+  'audio': "assets/back to you.mp3",
+},
+{
+  'title': 'Maroon 5 - animals',
+  'audio': "assets/animals.mp3",
+},
+{
+  'title': 'Owl City - Fireflies',
+  'audio': "assets/fireflies.mp3",
+},
  {
-  'title': 'DJ Snake - Let Me Love You ft.Justin Bieber ',
+  'title': 'DJ Snake - Let Me Love You',
   'audio': "assets/let me love you.mp3",
 },
 {
