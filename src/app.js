@@ -25,6 +25,38 @@ let playlist = [ {
   'audio': "assets/girls.mp3",
 },
 {
+  'title': 'Alan Walker - Alone',
+  'audio': "assets/alone.mp3",
+},
+{
+  'title': 'Taylor Swift - Blank Space',
+  'audio': "assets/blank space.mp3",
+},
+                {
+  'title': 'Luis Fonsi - Despacito ft.Daddy Yankee',
+  'audio': "assets/despacito.mp3",
+},
+                {
+  'title': 'Alan Walker - Faded',
+  'audio': "assets/faded.mp3",
+},
+                {
+  'title': 'DJ Snake - Let Me Love You ft.Justin Bieber ',
+  'audio': "assets/let me love you.mp3",
+},
+                {
+  'title': 'Alan Walker,Sabrina Carpenter & Farruko - On My Way',
+  'audio': "assets/on my way.mp3",
+},
+                {
+  'title': 'Selena Gomez,Cardi B,Ozuna - Taki Taki',
+  'audio': "assets/taki taki.mp3",
+},
+                {
+  'title': 'Taylor Swift - Fearless',
+  'audio': "assets/you belong with me.mp3",
+},
+{
   'title': 'Imagine Dragons - Believer',
   'audio': "assets/believer.mp3",
 },
