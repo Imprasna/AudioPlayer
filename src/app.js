@@ -75,7 +75,7 @@ let playlist = [ {
 {
   'title': 'Katy Perry - Fireworks',
   'audio': "assets/firework.mp3",
-},];
+}];
 i = 0;
 n = playlist.length;
 let player = document.getElementById( 'player' );
